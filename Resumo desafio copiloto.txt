@@ -1,1 +1,0 @@
-Em resumo, o aprendizado cobriria desde a base de acesso à plataforma até as diferentes estratégias de construção de copilotos, indo do mais simples e automatizado (modelos e IA) ao mais complexo e personalizável (em branco). O foco principal seria entender a versatilidade do Copilot Studio e escolher a melhor abordagem para cada projeto.
